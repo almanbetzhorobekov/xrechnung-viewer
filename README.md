@@ -1,5 +1,4 @@
-# xrechnung
-Reusable JavaFX component for displaying XRechnung (CII) e-invoices, including a demo application
+
 # XRechnung Viewer
 
 JavaFX-Komponente zur übersichtlichen Darstellung von XRechnungen
